@@ -1,5 +1,5 @@
 # :speech_balloon: This is my Processing Repository
-This Repo contains small Projects / Exercises done at School in about a week.
+This Repo contains small Projects / Exercises done at School in about a week.<br/>
  
 # :seedling: About Me
 I'm currently studying at a Computer Science School and learning the adequate skills for becoming a Software Developer.<br/>
